@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi 👋
 
 I'm a backend engineer based in Cape Town, South Africa.
 
